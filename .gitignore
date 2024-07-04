@@ -24,3 +24,7 @@ go.work.sum
 # others
 */bin/*
 */coverage-reports/*
+src/release/darwin-amd64/leechy-darwin-amd64
+src/release/darwin-arm64/leechy-darwin-arm64
+src/release/linux-386/leechy-linux-386
+src/release/linux-amd64/leechy-linux-amd64
